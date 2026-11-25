@@ -7,7 +7,7 @@ Open-source custom technical indicators and real-time event aggregation modules 
 - **Customizable UI Settings**: Live adjustment of smoothing factor (`alpha`), line color, and line width directly inside Bookmap.
 
 ## ⚠️ Disclaimer & Risk Notice
-This software is provided for educational and personal research purposes only, **without warranty of any kind** (see [MIT License](LICENSE)). 
+This software is provided for personal research purposes only, **without warranty of any kind** (see [MIT License](LICENSE)). 
 - Use in simulated or live trading is strictly **at your own risk**.
 - The author assumes no liability for financial losses, software bugs, or execution errors.
 - This project does not constitute financial or investment advice.
